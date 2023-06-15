@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.e-yoyowah.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.e-yoyowah.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/Ernest-Yoyowah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ernest%20Yoyowah-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ernest_yoyowah_jnr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ernest_yoyowah_jnr_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ernestniiyoyowah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ernestniiyoyowah@gmail.com-blue?style=flat-square&logo=gmail"></a>
