@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Software Engineering at Ghana Communication Trchnology University.
 - 💼 &nbsp; Working as an Agile Developer Intern at Xcelsz.
 - 🌱 &nbsp; Learning more about Software Engineering, Front-End Development and Principles Of UX/UI.
-- ✍️ &nbsp; Pursuing IT Support and Playing the Keyboard as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Playing the Keyboard and IT Support as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
