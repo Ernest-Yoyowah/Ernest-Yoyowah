@@ -59,8 +59,6 @@
 - Description: In this repository, you'll find a collection of coding projects I've worked on as part of my Software Engineering studies at the Ghana Communication Technology University.
 - Link: [College-Praticals](https://github.com/Ernest-Yoyowah/College-Praticals)
   
-Problem Analyses
-Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
-Link: [Problem-Analyses Repository](https://github.com/Ernest-Yoyowah/Problem-Analyses)
-Remember to adjust the descriptions as needed. Once you've made the changes, save the file, and the link to your "Problem-Analyses" repository will be added to your main profile README.md.
-
+### Problem Analyses
+- Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
+- Link: [Problem-Analyses Repository](https://github.com/Ernest-Yoyowah/Problem-Analyses)
