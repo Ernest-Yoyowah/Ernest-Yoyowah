@@ -46,3 +46,16 @@
 <a href="https://www.instagram.com/ernest_yoyowah_jnr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ernest_yoyowah_jnr_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ernestniiyoyowah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ernestniiyoyowah@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+## Projects
+
+### Coding Interview Preparation Repository
+
+- Description: This repository is a collection of my solutions to coding interview questions and challenges. It's a showcase of my dedication to problem-solving and my commitment to improving my coding skills.
+- Link: [Coding-Interview-Prep](https://github.com/Ernest-Yoyowah/Coding-Interview-Prep)
+
+### College Practicals
+
+- Description: In this repository, you'll find a collection of coding projects I've worked on as part of my Software Engineering studies at the Ghana Communication Technology University.
+- Link: [College-Praticals](https://github.com/Ernest-Yoyowah/College-Praticals)
+  
