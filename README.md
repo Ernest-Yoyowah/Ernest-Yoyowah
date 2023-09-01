@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Trchnology University.
-- 💼 &nbsp; Working as an Agile Developer Intern at Xcelsz.
+- 💼 &nbsp; Seeking opportunities for internships or freelance work in software development.
 - 🌱 &nbsp; Learning more about Software Engineering, Front-End Development and Principles Of UX/UI.
 - 🔧 &nbsp;  Pursuing hobbies/side hustles as a keyboardist🎹 and an IT support provider💻.
 
