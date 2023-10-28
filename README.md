@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Trchnology University.
-- 💼 &nbsp; Currently, I'm working as a Software Engineer Intern at GCTU - University Relations.
+- 💼 &nbsp; Currently working as a Software Engineer Intern at GCTU - University Relations.
 - 🌱 &nbsp; Learning more about Software Engineering, Front-End Development and Principles Of UX/UI.
 - 🔧 &nbsp;  Pursuing hobbies/side hustles as a keyboardist🎹 and an IT support provider💻.
 
