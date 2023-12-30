@@ -1,12 +1,12 @@
 <h2>Hey there! I'm Ernest.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me</h3>
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Trchnology University.
+- 🚀 &nbsp; Venturing into new technologies and diving deep into React Native development.
+- 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
 - 💼 &nbsp; Currently working as a Software Engineering Intern at GCTU - University Relations.
-- 🌱 &nbsp; Learning more about Software Engineering, Front-End Development and Principles Of UX/UI.
-- 🔧 &nbsp;  Pursuing hobbies/side hustles as a keyboardist🎹 and an IT support provider.
+- 🌱 &nbsp; Exploring advanced Software Engineering concepts, with a focus on React Native Development.
+- 🔧 &nbsp; Pursuing hobbies/side hustles as a keyboardist 🎹 and an IT support provider.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
