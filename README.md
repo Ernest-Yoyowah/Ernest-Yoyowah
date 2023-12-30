@@ -2,11 +2,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🚀 &nbsp; Venturing into new technologies and diving deep into React Native development.
+- 🚀 &nbsp; Passionate about crafting innovative solutions through React Native development.
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
-- 💼 &nbsp; Currently working as a Software Engineering Intern at GCTU - University Relations.
+- 💼 &nbsp; Currently contributing as a Software Engineering Intern at GCTU - University Relations.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts, with a focus on React Native Development.
-- 🔧 &nbsp; Pursuing hobbies/side hustles as a keyboardist 🎹 and an IT support provider.
+- 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and providing IT support.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
