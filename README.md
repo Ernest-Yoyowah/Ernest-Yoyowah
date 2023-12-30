@@ -46,7 +46,11 @@
 <a href="mailto:ernestniiyoyowah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ernestniiyoyowah@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-## Projects
+## My Work and Contributions
+
+### Software Engineering Journey - 2023
+- Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
+- Link: [Software Engineering Journey - 2023](https://github.com/Ernest-Yoyowah/software-engineering-journey)
 
 ### Coding Interview Preparation Repository
 
