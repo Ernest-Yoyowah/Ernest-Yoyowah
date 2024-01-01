@@ -46,6 +46,8 @@
 <a href="mailto:ernestniiyoyowah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ernestniiyoyowah@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+## My Work and Contributions
+
 ### Coding Interview Preparation Repository
 
 - Description: This repository is a collection of my solutions to coding interview questions and challenges. It's a showcase of my dedication to problem-solving and my commitment to improving my coding skills.
@@ -59,8 +61,6 @@
 ### Problem Analyses
 - Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
 - Link: [Problem-Analyses Repository](https://github.com/Ernest-Yoyowah/Problem-Analyses)
-
-## My Work and Contributions
 
 ### Software Engineering Journey
 - Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
