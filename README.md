@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
 - 💼 &nbsp; Currently contributing as a Software Engineering Intern at GCTU - University Relations.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts, with a focus on React Native Development.
-- 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and providing IT support.
+- 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding  and providing IT support.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
