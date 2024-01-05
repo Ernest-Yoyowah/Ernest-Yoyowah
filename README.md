@@ -53,7 +53,7 @@
 - Description: This repository is a collection of my solutions to coding interview questions and challenges. It's a showcase of my dedication to problem-solving and my commitment to improving my coding skills.
 - Link: [Coding-Interview-Prep](https://github.com/Ernest-Yoyowah/Coding-Interview-Prep)
 
-### College Practicals
+### College Major
 
 - Description: In this repository, you'll find a collection of coding projects I've worked on as part of my Software Engineering studies at the Ghana Communication Technology University.
 - Link: [College-Praticals](https://github.com/Ernest-Yoyowah/College-Praticals)
