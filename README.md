@@ -50,7 +50,7 @@
 
 ### Software Engineering Journey
 - Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
-- Link: [Software Engineering Journey - 2023](https://github.com/Ernest-Yoyowah/software-engineering-journey)
+- Link: [Software Engineering Journey](https://github.com/Ernest-Yoyowah/software-engineering-journey)
 
 
 ### Coding Interview Preparation Repository
