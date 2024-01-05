@@ -48,20 +48,17 @@
 
 ## My Work and Contributions
 
+### Software Engineering Journey
+- Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
+- Link: [Software Engineering Journey - 2023](https://github.com/Ernest-Yoyowah/software-engineering-journey)
+
+
 ### Coding Interview Preparation Repository
 
 - Description: This repository is a collection of my solutions to coding interview questions and challenges. It's a showcase of my dedication to problem-solving and my commitment to improving my coding skills.
 - Link: [Coding-Interview-Prep](https://github.com/Ernest-Yoyowah/Coding-Interview-Prep)
-
-### College Major
-
-- Description: In this repository, you'll find a collection of coding projects I've worked on as part of my Software Engineering studies at the Ghana Communication Technology University.
-- Link: [College-Praticals](https://github.com/Ernest-Yoyowah/College-Praticals)
   
 ### Problem Analyses
 - Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
 - Link: [Problem-Analyses Repository](https://github.com/Ernest-Yoyowah/Problem-Analyses)
-
-### Software Engineering Journey
-- Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
-- Link: [Software Engineering Journey - 2023](https://github.com/Ernest-Yoyowah/software-engineering-journey)
+  
