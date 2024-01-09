@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 📱 &nbsp; Shifting into mobile development with a focus on crafting innovative solutions using React Native.
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
+- 📱 &nbsp; Specializing in Front-End development with a focus on crafting innovative solutions using React.
 - 💼 &nbsp; Currently contributing as a Software Engineering Intern at GCTU - University Relations.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts, with a focus on React Native Development.
 - 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and providing IT support.
