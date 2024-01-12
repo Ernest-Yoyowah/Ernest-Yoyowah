@@ -53,11 +53,11 @@
 - Link: [Software Engineering Journey](https://github.com/Ernest-Yoyowah/software-engineering-journey)
 
 
-### Coding Interview Preparation Repository
+### Frontend Mastery Kit Repository
 
-- Description: This repository is a collection of my solutions to coding interview questions and challenges. It's a showcase of my dedication to problem-solving and my commitment to improving my coding skills.
-- Link: [Coding-Interview-Prep](https://github.com/Ernest-Yoyowah/Coding-Interview-Prep)
-  
+- Description: Explore my solutions to various coding challenges and problems in the world of frontend development. This repository showcases my dedication to problem-solving and my ongoing commitment to enhancing my coding skills.
+- Link: [FrontendMasteryKit](https://github.com/Ernest-Yoyowah/FrontendMasteryKit)
+
 ### Problem Analyses
 - Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
 - Link: [Problem-Analyses Repository](https://github.com/Ernest-Yoyowah/Problem-Analyses)
