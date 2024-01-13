@@ -6,7 +6,7 @@
 - 📱 &nbsp; Specializing in Front-End development with a focus on crafting innovative solutions using React.
 - 💼 &nbsp; Currently contributing as a Software Engineering Intern at GCTU - University Relations.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts and staying updated with the latest industry trends.
-- 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and providing IT support.
+- 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and freelancing in web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
