@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
-- 📱 &nbsp; Specializing in Front-End development with a focus on crafting innovative solutions using NextJS, TypeScript and Tailwind CSS.
+- 📱 &nbsp; Specializing in Front-End development with a focus on crafting innovative solutions using NextJS, TypeScript & Tailwind CSS.
 - 💼 &nbsp; Currently contributing as a Software Engineering Intern at GCTU - University Relations.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts and staying updated with the latest industry trends.
 - 🔧 &nbsp; Balancing my technical pursuits with hobbies like keyboarding 🎹 and freelancing in web development.
