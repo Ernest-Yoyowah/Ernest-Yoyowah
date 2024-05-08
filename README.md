@@ -46,7 +46,7 @@
 ## My Work and Contributions
 
 ### My Software Engineering Journey
-- Description: Follow my exciting journey in 2023, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
+- Description: Follow my exciting journey, encompassing academic pursuits, internships, and beyond. Discover how I navigated through challenges and triumphs in the ever-evolving world of software engineering.
 - Link: [Software Engineering Journey](https://github.com/Ernest-Yoyowah/software-engineering-journey)
 
 
