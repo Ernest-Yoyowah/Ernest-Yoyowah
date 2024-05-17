@@ -20,7 +20,9 @@
 - ⚙️ &nbsp;
   ![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat&logo=sanity&logoColor=F03E2F)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
+  ![GROQ](https://img.shields.io/badge/-GROQ-333333?style=flat&logo=groq&logoColor=00E599)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
