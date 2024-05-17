@@ -17,11 +17,9 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui&logoColor=007ACC)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
-
 - ⚙️ &nbsp;
   ![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat&logo=sanity&logoColor=F03E2F)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
