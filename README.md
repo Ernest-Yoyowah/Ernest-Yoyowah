@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
 - 📱 &nbsp; Specializing in Web Programming & Applications Development.
-- 💼 &nbsp; Contributed as a Software Engineering Intern at GCTU - University Relations in Sep 2023 - Dec 2023.
+- 💼 &nbsp; Currently Working as a Frontend Developer @ Jadaad Technologies - Software Team.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts and staying updated with the latest industry trends.
 - 🔧 &nbsp; Balancing my technical pursuits with side gigs as a keyboardist🎹 and freelancing in web development.
 
