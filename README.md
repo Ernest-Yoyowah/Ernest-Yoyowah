@@ -6,7 +6,7 @@
 - 📱 &nbsp; Specializing in Web Programming & Applications Development.
 - 💼 &nbsp; Currently Working as a Software Developer @ Jadaad Technologies - Software Team.
 - 🌱 &nbsp; Exploring advanced Software Engineering concepts and staying updated with the latest industry trends.
-- 🔧 &nbsp; Balancing my technical pursuits with side gigs as a keyboardist🎹 and freelancing in web appdevelopment.
+- 🔧 &nbsp; Balancing my technical pursuits with side gigs as a keyboardist🎹 and freelancing in web app development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
