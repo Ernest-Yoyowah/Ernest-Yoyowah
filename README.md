@@ -61,7 +61,7 @@
 ### Frontend Mastery Kit Repository
 
 - Description: Explore my solutions to various coding challenges and problems in the world of frontend development. This repository showcases my dedication to problem-solving and my ongoing commitment to enhancing my coding skills.
-- Link: [FrontendMasteryKit](https://github.com/Ernest-Yoyowah/FrontendMasteryKit)
+- Link: [Frontend Mastery Kit](https://github.com/Ernest-Yoyowah/FrontendMasteryKit)
 
 ### Problem Solving & Analyses
 - Description: In-depth analyses of various coding problems, showcasing problem-solving skills.
