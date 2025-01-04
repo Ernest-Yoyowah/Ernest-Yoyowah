@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
 - 📱 &nbsp; Specializing in Web Programming & Applications Development.
 - 💼 &nbsp; Currently Working as a Software Developer @ Dexwin Tech. ltd - MTN Pulse Development Team.
+- 🎓 &nbsp; Studying Software Engineering at the Ghana Communication Technology University.
 - 🌱 &nbsp; Delving into software architecture and design, and staying updated with the latest industry trends.
 - 🔧 &nbsp; Balancing my technical pursuits with side gigs as a keyboardist🎹 and freelancing in web applications development.
 
