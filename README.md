@@ -42,7 +42,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
   <a href="https://ernestyoyowah.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://ernestyoyowah.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
